@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta Reddy Marri</h1>
-<h3 align="center">Passionate developer seeking new opportunities, with expertise in full-stack web development, cloud infrastructure, and technologies like ReactJS, Django, AWS, and Terraform to create scalable, efficient solutions.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani60&label=Profile%20views&color=0e75b6&style=flat" alt="mani60" /> </p>
 
